@@ -1,0 +1,8 @@
+app.db
+cert.pem
+key.pem
+venv/
+__pycache__/
+.idea/
+migrations
+auth/services.py
